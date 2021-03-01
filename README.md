@@ -17,7 +17,7 @@ I finished the implementation of almost all the chips from the first three chapt
 - 16-bit Incrementer
 - 16-bit Adder
 - ALU
--##### Chapter 3:
+##### Chapter 3:
 - 1-bit Register
 - 16-bit Register
 - 8-Register RAM
